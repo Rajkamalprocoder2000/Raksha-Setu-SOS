@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# React Native / Metro
+.metro-health-check*
+metro*.log
+*.log
+
+# Build output
+android/app/build/
+android/build/
+android/.gradle/
+ios/build/
+build/
+dist/
+
+# Android generated files
+*.apk
+*.aab
+local.properties
+
+# iOS generated files
+Pods/
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+
+# Environment and secrets
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
