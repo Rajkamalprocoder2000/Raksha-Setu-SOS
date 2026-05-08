@@ -2,6 +2,10 @@
 
 Raksha Setu SOS is a React Native safety app prototype focused on fast emergency response. The app includes mobile onboarding, Google sign-in, emergency SOS, trusted contacts, safe zones, nearby help, alerts, tracking controls, and plan management.
 
+## Project Preview
+
+![Raksha Setu SOS app preview](assets/device-raksha-setu.png)
+
 ## Tech Stack
 
 - React Native 0.73.7 for Android and iOS app development
